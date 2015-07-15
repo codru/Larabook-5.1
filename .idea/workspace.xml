@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44907955-734f-46c9-a1c1-e96fe595d5ff" name="Default" comment="" />
+    <ignored path="larabook.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="larabook" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Comment.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Larabook/Comments/Comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.57388663">
+              <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Larabook/Statuses/PublishStatusJob.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/StatusesController.php" />
+        <option value="$PROJECT_DIR$/php_errors.log" />
+        <option value="$PROJECT_DIR$/app/Larabook/Users/FollowsTrait.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Users/UnfollowUserJob.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Users/RegisterUserJob.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Registration/RegisterUserJob.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Registration/SaveUserRequest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/RegistrationController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Users/FollowUserJob.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Users/UserRepository.php" />
+        <option value="$PROJECT_DIR$/database/seeds/StatusesTableSeeder.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/users/partials/follow-form.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/users/show.blade.php" />
+        <option value="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/emails/registration/confirm.blade.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Registration/Events/UserHasRegistered.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Larabook/Mailers/Mailer.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Mailers/UserMailer.php" />
+        <option value="$PROJECT_DIR$/app/Listeners/EmailNotifier.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/modules/_status.scss" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/modules/_nav.scss" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/modules/_button.scss" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/pages/_users.scss" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PasswordController.php" />
+        <option value="$PROJECT_DIR$/resources/views/password/index.blade.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/Larabook/Users/UserPresenter.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_07_14_130341_create_password_reminders_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/emails/password/reset.blade.php" />
+        <option value="$PROJECT_DIR$/config/auth.php" />
+        <option value="$PROJECT_DIR$/resources/views/password/reset.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/sessions/create.blade.php" />
+        <option value="$PROJECT_DIR$/storage/logs/laravel.log" />
+        <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Statuses/StatusPresenter.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CommentsController.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Statuses/Status.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Comments/PublishCommentJob.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Users/User.php" />
+        <option value="$PROJECT_DIR$/resources/views/comments/partials/comment.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/default.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Comments/PublishCommentRequest.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Comments/CommentRepository.php" />
+        <option value="$PROJECT_DIR$/resources/views/statuses/partials/status.blade.php" />
+        <option value="$PROJECT_DIR$/app/Larabook/Comments/Comment.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statuses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statuses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sessions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="password" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="errors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="password" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seeds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Providers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Listeners" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Statuses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Comments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jobs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Requests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Presenter" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="options.lastSelected" value="editing.templates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="emmet &#9;ACTION&#9;Emmet" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\YandexDisk\work\larabook\app\Larabook\Users" />
+      <recent name="D:\YandexDisk\work\larabook" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\YandexDisk\work\larabook\app\Larabook\Comments" />
+      <recent name="D:\YandexDisk\work\larabook\app\Http\Controllers" />
+      <recent name="D:\YandexDisk\work\larabook\app\Larabook\Registration" />
+      <recent name="D:\YandexDisk\work\larabook\app\Larabook\Statuses" />
+      <recent name="D:\YandexDisk\work\larabook\app\Larabook\Users" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44907955-734f-46c9-a1c1-e96fe595d5ff" name="Default" comment="" />
+      <created>1436242375412</created>
+      <option name="number" value="Default" />
+      <updated>1436242375412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="960" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2457627" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861477" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962587" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Registration/Events/UserHasRegistered.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46761134">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36133602">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29757085">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Mailers/Mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06376518">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Mailers/UserMailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06376518">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Listeners/EmailNotifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19129555">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/modules/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6163968">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/modules/_button.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06376518">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.458897">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/pages/_users.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21255061">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Auth/Passwords/CanResetPassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23380567">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/html/FormBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6163968">
+          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
+          <folding>
+            <marker date="1436598665461" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The HTML builder instance. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The URL generator instance. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The CSRF token used by the form builder. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The session store implementation. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The current model instance for the form. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" An array of label names we've created. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The reserved form open attributes. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The form methods that should be spoofed, in uppercase. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" The types of inputs to not fill values on by default. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a new form builder instance. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Open up a new HTML form. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a new model based form builder. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Set the model instance on the form builder. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Close the current form. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Generate a hidden field with the current CSRF token. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a form label element. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Format the label value. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a form input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a text input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a password input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a hidden input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create an e-mail input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a url input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a file input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a textarea input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Set the text area size on the attributes. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Set the text area size using the quick &quot;size&quot; attribute. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a select box field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a select range field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a select year field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a select month field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the select option for the given value. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create an option group form element. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a select element option. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Determine if the value is selected. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a checkbox input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a radio button input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a checkable input field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the check state for a checkable input. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the check state for a checkbox input. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the check state for a radio input. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Determine if old input or model input exists for a key. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a HTML reset input element. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a HTML image input element. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a submit button element. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Create a button element. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Parse the form action method. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the form action from the options. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the action for a &quot;url&quot; option. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the action for a &quot;route&quot; option. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the action for an &quot;action&quot; option. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the form appendage for the given method. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the ID attribute for a field name. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the value that should be assigned to the field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the model value that should be assigned to the field. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get a value from the session's old input. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Determine if the old input is empty. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Transform key from array to dot syntax. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Get the session store implementation. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder=" Set the session store implementation. ..." />
+            <marker date="1436598665461" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/codru/presenter/src/Codru/Presenter/PresentableTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436949889294" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949889294" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949889294" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949889294" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/codru/presenter/src/Codru/Presenter/Presenter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436949889295" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949889295" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949889295" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949889295" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/codru/presenter/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/codru/presenter/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;codru/presenter&quot;...}" />
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Maxim Vasiliev&quot;...}" />
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="{&quot;php&quot;: &quot;&gt;=5.4.0&quot;...}" />
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="{&quot;phpspec/phpspec&quot;: &quot;^2.2&quot;...}" />
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949889229" expanded="true" signature="-1:-1" placeholder="{&quot;Codru\Presenter&quot;: &quot;src/&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23380567">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{&quot;App\&quot;: &quot;app/&quot;...}" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436949816506" expanded="true" signature="-1:-1" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Users/UserPresenter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12753037">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1436949946633" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949946633" expanded="true" signature="-1:-1" placeholder=" @param int $size ..." />
+            <marker date="1436949946633" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949946633" expanded="true" signature="-1:-1" placeholder=" Human style count of followers ..." />
+            <marker date="1436949946633" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949946633" expanded="true" signature="-1:-1" placeholder=" Human style count of statuses ..." />
+            <marker date="1436949946633" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_07_14_130341_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6163968">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <marker date="1436950178528" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436950178528" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436950178528" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1436950178528" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436950178528" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950178528" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950178528" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1436950178528" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/password/reset.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44343892">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1436950686377" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950686377" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950686377" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950686377" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47511312">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <marker date="1436950727859" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950727859" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950727859" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950727859" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950727859" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436950727859" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/password/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7285068">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1436949207802" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949207802" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949207802" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949207802" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949207802" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949207802" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949207802" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/registration/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2850679">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436272786520" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/password/reset.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14878543">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951535057" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40384614">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <marker date="1436879308471" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436879308471" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436879308471" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436879308471" expanded="true" signature="-1:-1" placeholder=" Create a new password controller instance. ..." />
+            <marker date="1436879308471" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5536437">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <marker date="1436953985395" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder=" Display the form to request a password reset link. ..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder=" Send a reset link to the given user. ..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder=" Get the e-mail subject line to be used for the reset link email. ..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder=" Display the password reset view for the given token. ..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder=" Reset the given user's password. ..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder=" Reset the given user's password. ..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder=" Get the post register / login redirect path. ..." />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436953985395" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/sessions/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53137654">
+          <caret line="25" column="85" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
+          <folding>
+            <marker date="1436951724986" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951724986" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951724986" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951724986" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951724986" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951724986" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436951724986" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/statuses/partials/statuses.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021255061">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Statuses/StatusPresenter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12753037">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1436961175834" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436961175834" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/modules/_status.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8512146">
+          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+          <folding>
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436877964427" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_07_15_120108_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.570997">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <marker date="1436961669045" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436961669045" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436961669045" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1436961669045" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436961669045" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436961669045" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436961669045" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1436961669045" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436164090409" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436164090409" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5558912">
+          <caret line="23" column="91" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
+          <folding>
+            <marker date="1436963453582" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436963453582" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436963453582" expanded="true" signature="-1:-1" placeholder=" Store a newly created resource in storage. ..." />
+            <marker date="1436963453582" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Statuses/Status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36555892">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding>
+            <marker date="1436963453510" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder=" @var string ..." />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder=" @var array ..." />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder=" A status belongs to a user ..." />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder=" A status has many comments ..." />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder=" @param $input ..." />
+            <marker date="1436963453510" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Users/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5876133">
+          <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+          <folding>
+            <marker date="1436964093207" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" The database table used by the model. ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" The attributes that are mass assignable. ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" The attributes excluded from the model's JSON form. ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" Passwords must always be hashed. ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" A user has many statuses ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" A user has many comments ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" Register a new user ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder=" Determine if a given user is the same as given one ..." />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436964093207" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/default.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7296072">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <marker date="1436966323045" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966323045" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966323045" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966323045" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966323045" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966323045" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436966323045" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77794564">
+          <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+          <folding>
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder=" Registration ..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder=" Sessions ..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder=" Statuses ..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder=" Users ..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder=" Follows ..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder=" Password ..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder=" Comments ..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966431067" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Statuses/PublishStatusJob.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6589069">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <marker date="1436798181886" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436798181886" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436798181886" expanded="true" signature="-1:-1" placeholder=" Create a new job instance. ..." />
+            <marker date="1436798181886" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436798181886" expanded="true" signature="-1:-1" placeholder=" Execute the job. ..." />
+            <marker date="1436798181886" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Statuses/StatusRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21255061">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <marker date="1436532537632" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436532537632" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436532537632" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436532537632" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Comments/PublishCommentJob.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8097166">
+          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+          <folding>
+            <marker date="1436963876885" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder=" @var ..." />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder=" @var ..." />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder=" @var ..." />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder=" Create a new job instance. ..." />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder=" Execute the job. ..." />
+            <marker date="1436963876885" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Comments/PublishCommentRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3188259">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <marker date="1436966550550" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436966550550" expanded="true" signature="-1:-1" placeholder=" Determine if the user is authorized to make this request. ..." />
+            <marker date="1436966550550" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436966550550" expanded="true" signature="-1:-1" placeholder=" Get the validation rules that apply to the request. ..." />
+            <marker date="1436966550550" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436966550550" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Comments/CommentRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3188259">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1436966642842" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436966642842" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7439271">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding>
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436861488113" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users/partials/avatar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436604649662" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436604649662" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/statuses/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436608156158" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436608156158" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436608156158" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/comments/partials/comment.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12753037">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <marker date="1436966159601" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966159601" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966159601" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/statuses/partials/status.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6163968">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <marker date="1436966710419" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966710419" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966710419" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966710419" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436966710419" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.085020244">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder=" Constructs a comment node. ..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder=" Gets the comment text. ..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder=" Sets the comment text. ..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder=" Gets the line number the comment started on. ..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder=" Sets the line number the comment started on. ..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder=" Gets the comment text. ..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder=" Gets the reformatted comment text. ..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436949346181" expanded="true" signature="-1:-1" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Larabook/Comments/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57388663">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

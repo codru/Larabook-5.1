@@ -1,0 +1,56 @@
+[15-Jul-2015 08:48:52 UTC] PHP Fatal error:  Class 'CreatePasswordRemindersTable' not found in D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php on line 324
+[15-Jul-2015 08:48:52 UTC] PHP Stack trace:
+[15-Jul-2015 08:48:52 UTC] PHP   1. {main}() D:\YandexDisk\work\larabook\artisan:0
+[15-Jul-2015 08:48:52 UTC] PHP   2. Illuminate\Foundation\Console\Kernel->handle() D:\YandexDisk\work\larabook\artisan:36
+[15-Jul-2015 08:48:52 UTC] PHP   3. Symfony\Component\Console\Application->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php:98
+[15-Jul-2015 08:48:52 UTC] PHP   4. Symfony\Component\Console\Application->doRun() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:126
+[15-Jul-2015 08:48:52 UTC] PHP   5. Symfony\Component\Console\Application->doRunCommand() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:195
+[15-Jul-2015 08:48:52 UTC] PHP   6. Illuminate\Console\Command->run() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:878
+[15-Jul-2015 08:48:52 UTC] PHP   7. Symfony\Component\Console\Command\Command->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Console\Command.php:135
+[15-Jul-2015 08:48:52 UTC] PHP   8. Illuminate\Console\Command->execute() D:\YandexDisk\work\larabook\vendor\symfony\console\Command\Command.php:259
+[15-Jul-2015 08:48:52 UTC] PHP   9. Illuminate\Container\Container->call() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Console\Command.php:149
+[15-Jul-2015 08:48:52 UTC] PHP  10. call_user_func_array:{D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502}() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502
+[15-Jul-2015 08:48:52 UTC] PHP  11. Illuminate\Database\Console\Migrations\RollbackCommand->fire() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502
+[15-Jul-2015 08:48:52 UTC] PHP  12. Illuminate\Database\Migrations\Migrator->rollback() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Console\Migrations\RollbackCommand.php:63
+[15-Jul-2015 08:48:52 UTC] PHP  13. Illuminate\Database\Migrations\Migrator->runDown() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:170
+[15-Jul-2015 08:48:52 UTC] PHP  14. Illuminate\Database\Migrations\Migrator->resolve() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:215
+[15-Jul-2015 08:49:46 UTC] PHP Fatal error:  Cannot redeclare class CreatePasswordResetsTable in D:\YandexDisk\work\larabook\database\migrations\2015_07_14_130341_create_password_reminders_table.php on line 34
+[15-Jul-2015 08:49:46 UTC] PHP Stack trace:
+[15-Jul-2015 08:49:46 UTC] PHP   1. {main}() D:\YandexDisk\work\larabook\artisan:0
+[15-Jul-2015 08:49:46 UTC] PHP   2. Illuminate\Foundation\Console\Kernel->handle() D:\YandexDisk\work\larabook\artisan:36
+[15-Jul-2015 08:49:46 UTC] PHP   3. Symfony\Component\Console\Application->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php:98
+[15-Jul-2015 08:49:46 UTC] PHP   4. Symfony\Component\Console\Application->doRun() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:126
+[15-Jul-2015 08:49:46 UTC] PHP   5. Symfony\Component\Console\Application->doRunCommand() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:195
+[15-Jul-2015 08:49:46 UTC] PHP   6. Illuminate\Console\Command->run() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:878
+[15-Jul-2015 08:49:46 UTC] PHP   7. Symfony\Component\Console\Command\Command->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Console\Command.php:135
+[15-Jul-2015 08:49:46 UTC] PHP   8. Illuminate\Console\Command->execute() D:\YandexDisk\work\larabook\vendor\symfony\console\Command\Command.php:259
+[15-Jul-2015 08:49:46 UTC] PHP   9. Illuminate\Container\Container->call() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Console\Command.php:149
+[15-Jul-2015 08:49:46 UTC] PHP  10. call_user_func_array:{D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502}() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502
+[15-Jul-2015 08:49:46 UTC] PHP  11. Illuminate\Database\Console\Migrations\MigrateCommand->fire() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502
+[15-Jul-2015 08:49:46 UTC] PHP  12. Illuminate\Database\Migrations\Migrator->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Console\Migrations\MigrateCommand.php:74
+[15-Jul-2015 08:49:46 UTC] PHP  13. Illuminate\Database\Migrations\Migrator->runMigrationList() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:85
+[15-Jul-2015 08:49:46 UTC] PHP  14. Illuminate\Database\Migrations\Migrator->runUp() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:112
+[15-Jul-2015 08:49:46 UTC] PHP  15. Illuminate\Database\Migrations\Migrator->resolve() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:129
+[15-Jul-2015 08:49:46 UTC] PHP  16. spl_autoload_call() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:324
+[15-Jul-2015 08:49:46 UTC] PHP  17. Composer\Autoload\ClassLoader->loadClass() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:0
+[15-Jul-2015 08:49:46 UTC] PHP  18. Composer\Autoload\includeFile() D:\YandexDisk\work\larabook\vendor\composer\ClassLoader.php:301
+[15-Jul-2015 08:51:02 UTC] PHP Fatal error:  Cannot redeclare class CreatePasswordResetsTable in D:\YandexDisk\work\larabook\database\migrations\2015_07_14_130341_create_password_reminders_table.php on line 34
+[15-Jul-2015 08:51:02 UTC] PHP Stack trace:
+[15-Jul-2015 08:51:02 UTC] PHP   1. {main}() D:\YandexDisk\work\larabook\artisan:0
+[15-Jul-2015 08:51:02 UTC] PHP   2. Illuminate\Foundation\Console\Kernel->handle() D:\YandexDisk\work\larabook\artisan:36
+[15-Jul-2015 08:51:02 UTC] PHP   3. Symfony\Component\Console\Application->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php:98
+[15-Jul-2015 08:51:02 UTC] PHP   4. Symfony\Component\Console\Application->doRun() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:126
+[15-Jul-2015 08:51:02 UTC] PHP   5. Symfony\Component\Console\Application->doRunCommand() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:195
+[15-Jul-2015 08:51:02 UTC] PHP   6. Illuminate\Console\Command->run() D:\YandexDisk\work\larabook\vendor\symfony\console\Application.php:878
+[15-Jul-2015 08:51:02 UTC] PHP   7. Symfony\Component\Console\Command\Command->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Console\Command.php:135
+[15-Jul-2015 08:51:02 UTC] PHP   8. Illuminate\Console\Command->execute() D:\YandexDisk\work\larabook\vendor\symfony\console\Command\Command.php:259
+[15-Jul-2015 08:51:02 UTC] PHP   9. Illuminate\Container\Container->call() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Console\Command.php:149
+[15-Jul-2015 08:51:02 UTC] PHP  10. call_user_func_array:{D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502}() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502
+[15-Jul-2015 08:51:02 UTC] PHP  11. Illuminate\Database\Console\Migrations\MigrateCommand->fire() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Container\Container.php:502
+[15-Jul-2015 08:51:02 UTC] PHP  12. Illuminate\Database\Migrations\Migrator->run() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Console\Migrations\MigrateCommand.php:74
+[15-Jul-2015 08:51:02 UTC] PHP  13. Illuminate\Database\Migrations\Migrator->runMigrationList() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:85
+[15-Jul-2015 08:51:02 UTC] PHP  14. Illuminate\Database\Migrations\Migrator->runUp() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:112
+[15-Jul-2015 08:51:02 UTC] PHP  15. Illuminate\Database\Migrations\Migrator->resolve() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:129
+[15-Jul-2015 08:51:02 UTC] PHP  16. spl_autoload_call() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:324
+[15-Jul-2015 08:51:02 UTC] PHP  17. Composer\Autoload\ClassLoader->loadClass() D:\YandexDisk\work\larabook\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:0
+[15-Jul-2015 08:51:02 UTC] PHP  18. Composer\Autoload\includeFile() D:\YandexDisk\work\larabook\vendor\composer\ClassLoader.php:301
